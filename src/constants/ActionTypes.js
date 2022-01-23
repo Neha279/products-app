@@ -1,0 +1,2 @@
+export const FILTER_BY_TYPE = 'FILTER_BY_TYPE';
+export const RECEIVE_PRODUCTS = 'RECEIVE_PRODUCTS';

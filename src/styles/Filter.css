@@ -1,0 +1,34 @@
+.filter__heading{
+    margin: 10px;
+    float: left;
+    text-align: left;
+}
+
+.form-filter {
+    float: right;
+    margin: 0 10px !important;
+    text-align: right;
+}
+
+#filter-select-label {
+    display: inline-block;
+    margin: 10px;
+}
+
+#filter-select {
+    display: inline-block;
+    width: 150px;
+    height: 40px;
+}
+
+@media (max-width: 320px){
+    .form-filter {
+         width: auto;
+        float: none;
+        text-align: center; 
+    }
+    .filter__heading {
+        float: none; 
+        text-align: left;
+    }
+}

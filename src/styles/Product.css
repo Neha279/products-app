@@ -1,0 +1,16 @@
+.custom-chip__Input {
+    position: relative;
+  }
+  .css-pkrzmx-MuiPaper-root {
+    text-align: left !important;
+  }
+  .MuiTypography-root{
+    text-align: center;
+  }
+  .custom-chip__Input  span {
+    position: absolute;
+    bottom: 160px;
+    background: orange;
+    left: 1px;
+    text-align: left;
+  }
